@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)]([http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb](https://mybinder.org/v2/gh/QuinnAAguilar-Reynolds/Quinn-s_Crazy_Stuff/py37_r353))
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuinnAAguilar-Reynolds/Quinn-s_Crazy_Stuff/py37_r353)
 
 Quinn's own personal Binder-compatible repo with an `environment.yml` file.
 
